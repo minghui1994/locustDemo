@@ -22,7 +22,7 @@ class UserBehavior(TaskSet):
         l.client.get("/profile")
 
 
-class WebsiteUser(HttpLocust): #Represents a user
+class WebsiteUser(HttpLocust): #Represents a Http user
     task_set = UserBehavior
     min_wait = 5000
     max_wait = 9000

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="464c24f9-e161-4668-afc6-c839411b517e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locustfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/locustfile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/locustfile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="19" lean-forward="true" selection-end-line="27" selection-end-column="19" />
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -25,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="950">
-                <caret line="59" column="121" selection-start-line="59" selection-start-column="121" selection-end-line="59" selection-end-column="121" />
+              <first_editor relative-caret-position="868">
+                <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,6 +88,9 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -117,7 +121,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17628205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15170941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -139,15 +143,15 @@
     <entry file="file://$PROJECT_DIR$/locustfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="19" lean-forward="true" selection-end-line="27" selection-end-column="19" />
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="950">
-            <caret line="59" column="121" selection-start-line="59" selection-start-column="121" selection-end-line="59" selection-end-column="121" />
+          <first_editor relative-caret-position="868">
+            <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
